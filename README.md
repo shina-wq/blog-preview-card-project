@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [View Live Project](https://your-live-site-url.com)
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-using-html-and-css-nTzj5u7NqQ)
+- Live Site URL: [View Live Project](https://blog-preview-card-project-beta.vercel.app/)
 
 ## My process
 
